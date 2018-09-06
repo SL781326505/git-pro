@@ -1,2 +1,2 @@
 # git-pro
-git test
+##一般配置
