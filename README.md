@@ -5,6 +5,6 @@ git config --global user.name
 git config --global user.email
 ```
 #### 初始化仓库
-`git init`
+```git init```
 #### 创建忽略文件
-`touch .gitignore`
+```touch .gitignore```
