@@ -9,4 +9,6 @@ git config --global user.email
 git init
 ```
 #### 创建忽略文件
-```touch .gitignore```
+`
+touch .gitignore
+`
