@@ -31,10 +31,10 @@ git log --oneline
 ```
 #### 比较差异
   * 比较暂存区和工作区的差异
-  ```
-  git diff
-  ```
+    ```
+    git diff
+    ```
   * 比较暂存区和历史区的差异
-  ```
-  git diff --cached
-  ```
+    ```
+    git diff --cached
+    ```
